@@ -1,7 +1,13 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
+<!--
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgermanunioncemetery.org%2Fwhy-is-data-science-the-future-ff-56yk7kU3&psig=AOvVaw1Uj5hOx7LeWy9Jbaqq7Xdu&ust=1720373041044000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiQ2JH3kocDFQAAAAAdAAAAABAJ)
+-->
+
+
+
 <h1 align="center">Hi 👋, I'm Anup Dutta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align ="right" alt="Coding" width="400" src="https://images.app.goo.gl/Ppj2CUGagjpyTBjC6">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2OpcOS2nyaeYCW8HMO/giphy.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anup2003d" alt="anup2003d" /></a> </p>
 
