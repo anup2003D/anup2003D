@@ -8,6 +8,7 @@ on:
   push:
     branches:
       - main
+      - master
 
 jobs:
   build:
@@ -15,7 +16,7 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -26,7 +27,8 @@ jobs:
             dist/github-snake-dark.svg
       
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           branch: output
           message: 'Generate Snake'
+          new_branch: true
